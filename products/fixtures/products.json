@@ -1,0 +1,278 @@
+[
+    {
+       "pk":1,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5001340155",
+          "name":"Adidas Combat 50 Boxing Gloves",
+          "description":"Introducing the Adidas Conbat 50 Boxing Gloves – the ultimate gear for fighters who demand excellence in every punch. Crafted from durable PU, these gloves feature pre-moulded foam for optimal shock absorption. Stay cool with breathable palm mesh, and ensure wrist stability with a wide hook and loop strap. Inside, a soft lining adds comfort. Choose excellence in every punch, choose Adidas Combat 50.",
+          "price":39.99,
+          "category":1,
+          "image":"adidas-combat-gloves.jpg"
+       }
+    },
+    {
+       "pk":2,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5001600425",
+          "name":"Everlast Elite Pro Hook & Loop Training Gloves",
+          "description":"The Everlast Elite Pro Hook and Loop Traning Goves feature a revolutionary design that incorporates a new anatomically shaped shell that allows for a natural range of motion and optimal fist placement. To help stabilist and protect your hand and wrist during intense sparring, bag, or mitt work they have been developed with EVERSHIELD™ technology. Their one-piece design has been engineered to perform as a natural extension of your hand giving a 'second skin' fit. They've also been crafted with a premium blend of multi-layered foam and an incredibily strong composite microfibre for long-lasting durability.",
+          "price":164.99,
+          "category":1,
+          "image":"everlast-elite-pro.jpg"
+       }
+    },
+    {
+       "pk":3,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5001730010",
+          "name":"Reebok Combat Leather Training Gloves",
+          "description":"The Reebok Combat Leather Training Gloves are ideal for a variety of training exercises. Constructed from long-lasting leather and filled with foam for extra padding, these gloves adjust to the shape of your hands for precise strikes. The double wrist strap allows for quick adjustments and improved comfort while training, and the gloves also feature ventilation in the palm.",
+          "price":34.99,
+          "category":1,
+          "image":"reebok-combat-gloves.jpg"
+       }
+    },
+    {
+       "pk":4,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5001890157",
+          "name":"Ringside IBA 14oz Fight Gloves",
+          "description":"These Ringside Boxing Glove have been handmade from the highest quality cowhide leathers and developed alongside the IBA fight team to be used on the IBA promoted shows.",
+          "price":99.99,
+          "category":1,
+          "image":"ringside-fight-gloves.jpg"
+       }
+    },
+    {
+       "pk":5,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002111605",
+          "name":"Phenom Boxing XDF-210 Fight Gloves",
+          "description":"The Phenom fight glove is a masterpiece born from years of painstaking research and development, proudly claiming its spot as one of the best gloves available on the market today. Crafted with unwavering dedication, you'll notice the impeccable craftsmanship in every detail, from the top grade leather and double stitching to the premium lining and advanced wrist support, making sure you experience a fit that truly brings the expression fits like a glove to life.",
+          "price":159.99,
+          "category":1,
+          "image":"phenom-fight-gloves.jpg"
+       }
+    },
+    {
+       "pk":6,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002260206",
+          "name":"Sting Evolution Pro Competition Lace Gloves",
+          "description":"Introducing Sting's Evolution Pro Competition Gloves! With their Quad Core system, Gel Fusion technology, and superior design, these gloves deliver maximum power, performance, and shock protection. Stay at the top with optimal hand and wrist support, knockout jab power, and enhanced comfort. Choose from various options to find your perfect pair. Dominate the ring!",
+          "price":139.99,
+          "category":1,
+          "image":"sting-pro-gloves.jpg"
+       }
+    },
+    {
+       "pk":7,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002440521",
+          "name":"TUF Wear Starter Training Gloves",
+          "description":"These Tuf Wear gloves are an ideal economy glove that is priced to suit the pocket anyone who uses boxing as cardio or even for those who want to give it a try before commiting more seriously.",
+          "price":19.99,
+          "category":1,
+          "image":"tuf-wear-training-gloves.jpg"
+       }
+    },
+    {
+       "pk":8,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002601115",
+          "name":"Pro Box Pro Spar 18oz Leather Sparring Gloves",
+          "description":"We are positive you will be hard pushed to find a more comfortable pair of training/sparring gloves than these Pro Box Pro-Spar Leather Spar Gloves. They are slightly wider fit so makes them ideal for anyone with a larger hand. Made from soft, premium grade leather that is hand stitched and lined with a durable super soft moisture wicking material that allows the gloves to dry quickly inbetween sessions.",
+          "price":39.99,
+          "category":1,
+          "image":"pro-box-pro-spar.jpg"
+       }
+    },
+    {
+       "pk":9,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002690715",
+          "name":"Cleto Reyes Black Mexican Sparring Gloves",
+          "description":"Cleto Reyes Mexican boxing gloves are renowned for their meticulous handcraftsmanship and top-quality leather. These gloves feature a sleek design, contoured shape, and extended cuff for added wrist protection. They also have a water repellent lining to keep hands cool and dry during intense training. Notably, the Reyes sparring gloves have attached thumbs to prevent injuries and sprains. With a 71-year history and trusted by boxing legends like Muhammad Ali, Floyd Mayweather, and Manny Pacquiao, Cleto Reyes gloves are the choice of champions.",
+          "price":264.99,
+          "category":1,
+          "image":"cleto-reyes-mexican-gloves.jpg"
+       }
+    },
+    {
+       "pk":10,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002701115",
+          "name":"Rival RFX-Guerrero-V Sparring Gloves P4P Edition",
+          "description":"Rival is proud to introduce the innovative RFX-Guerrero-V Sparring Gloves P4P Edition! These stunning “Special Edition” gloves are an exclusive collection. Meet the ultimate high-end sparring glove, specifically designed to withstand the rigours of a professional, World Championship calibre training camp. These gloves are trusted by an array of World Champions and top contenders, the RFX-Guerrero Sparring Gloves were designed to offer the same fit and feel as our ever-popular crown jewel, the RFX-Guerrero Pro Fight Glove — but with added protection, plus our innovative Hook & Loop V-Strap for a secure fit.",
+          "price":279.99,
+          "category":1,
+          "image":"rival-sparring-gloves.jpg"
+       }
+    },
+    {
+       "pk":11,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002761055",
+          "name":"Fly Superloop Lightning Gloves",
+          "description":"The Superloop with all the attributes of the Superlace but with the ease of a hook and loop closure. These gloves have unparalleled durability, which is evident throughout, from the top grade supple leather hides, to the lining and double stitching that adorn the exterior. Incorporating our unique high density foam, designed for optimal comfort and feel.",
+          "price":450.99,
+          "category":1,
+          "image":"fly-lightning-gloves.jpg"
+       }
+    },
+    {
+       "pk":12,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002820069",
+          "name":"Carbon Claw Recoil RB-7 Series Leather Hook & Loop Sparring Gloves",
+          "description":"The Tigris Corbetti Fight Glove (Latin for Indochinese Tiger) ensures these gloves have the Carbon Claw ethos of quality and performance. Crafted from choice leathers these glove have been hand crafted and hand stitched to provide added strength. This well-balanced glove has padding with various layers for a medium to firm consistency. Shaped in a natural curve to simulate a fist position with a built in padded finger grip bar the shaped foam construction helps reduce undue tension on the forearm muscles ensuring a relaxed but reactive feel. The thumb tip is attached safely to the main body of the glove to avoid the thumb acting independently and bending backwards if an incorrect punch is thrown or deflected badly. The long easy draw laces ensure there is plenty to wrap around the wrist for secure tying.",
+          "price":24.99,
+          "category":1,
+          "image":"carbon-claw-recoil.jpg"
+       }
+    },
+    {
+       "pk":13,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002820147",
+          "name":"Adidas Combat Speed 5 White/Black/Red",
+          "description":"Weighing in at just 195 grams these boots are super light with a sock-like fit. The Adidas Combat Speed 5 boot has a split suede and rubber outsole for grip and spin. These boots feature a lace retainer and are constructed from a ultra breathable single layer mesh body along with suede leather and synthetic leather placed in strategic areas. The outsole and outsole wrap design provides perfect balance of durability, grip and spin whilst a VA wedge in the midsole helps you to get your perfect attack stance. Flexible, supportive TPU stripes teamed with an integrated side panel reinforces the sock-like fit. Based on a wrestling boot design but adopted as a boxing boot by many boxers.",
+          "price":74.99,
+          "category":2,
+          "image":"adidas-combat-speed.jpg"
+       }
+    },
+    {
+       "pk":14,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002910572",
+          "name":"Nike Tawa SE Boots",
+          "description":"The Special Edition Nike Tawa Olympic Shoe features an enhanced traction engineered pattern with a sidewall wrap to offer excellent grip even on extreme angles. This shoe provides various benefits such as a sock-like fit, which is achieved through zonal stretch and lockout technology that offers a seamless fit during a wide range of motions. The shoe also offers breathability with strategically placed ventilation zones, promoting cooling and lightweight performance.",
+          "price":159.99,
+          "category":2,
+          "image":"nike-tawa-boots.jpg"
+       }
+    },
+    {
+       "pk":15,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002990740",
+          "name":"Fly Storm Boots",
+          "description":"Introducing the Fly Storm Boot: the ultimate footwear for speed, precision, agility, and support. These lightweight and breathable boots feature an advanced lace and hook and loop closure for unparalleled comfort and stability. The durable sole delivers superior grip, allowing you to focus on your footwork. Upgrade your training with Fly Storm Boot.",
+          "price":164.99,
+          "category":2,
+          "image":"fly-storm-boots.jpg"
+       }
+    },
+    {
+       "pk":16,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003050248",
+          "name":"Sting Viper-X Boxing Boot 2.0",
+          "description":"The Viper-X Boxing Boot 2.0 is a new boot that comes in two new color options. It features an open-weave mesh upper for breathability, with additional support from welded thermoplastic overlays on the medial and lateral sides. The boot is designed to contour to the shape of your foot, resulting in seamless movement in the ring. The outsole is lightweight and provides good grip on all types of surfaces, both in and out of the ring. The boot's ¾ cut upper and various features make it a lightweight and supportive option for boxers of all levels.",
+          "price":139.99,
+          "category":2,
+          "image":"sting-viper-boots.jpg"
+       }
+    },
+    {
+       "pk":17,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003070787",
+          "name":"Everlast Elite High Top Boxing Boots",
+          "description":"Everlast have created a lightweight high top boxing shoe that has been engineered with the understanding that footwork is everything. You trust your car with them, well these also feature a high quality Michelin® Technical Sole for maximum traction, flexibility & support. Crafted with open weave mesh, microfibre and suede that creates the perfect formula for speed, comfort and durability. The versatile hybrid design allows athletes to seamlessly transition from gym to canvas for optimal training and competitive performance. The lightweight mesh upper combines with a premium rubber outsole to ensure maximum traction & stability without compromising speed & mobility. This high top design and additional ankle strap enhance support during punching, movement & sudden change of direction.",
+          "price":99.99,
+          "category":2,
+          "image":"everlast-elite-high-top"
+       }
+    },
+    {
+       "pk":18,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003090182",
+          "name":"King Boxing Towelling Short",
+          "description":"King Boxing Towelling Boxing Shorts are made from 100% cotton and are ideal for soaking up the sweat when training! They feature a 4 waistband that gives you a comfortable snug fit for your workout session. The have the King Boxing logo to the waistband and front side leg.",
+          "price":8.99,
+          "category":3,
+          "image":"king-boxing-shorts.jpg"
+       }
+    },
+    {
+       "pk":19,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003090186",
+          "name":"Sting Mettle Competition Unisex Shorts",
+          "description":"Make sure you are compettiion ready in the NEW Elite Amateur Boxing Uniform from Sting. Made from 100% Polyester interlock material with a diamond weave fabric that lightens the feel when wet. To ensure you have freedom of movement they have an athletic cut. Team it with the Sting Singlet vest for the ultimate look for the ring.",
+          "price":29.99,
+          "category":3,
+          "image":"sting-competition-shorts.jpg"
+       }
+    },
+    {
+       "pk":20,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003161326",
+          "name":"Adidas Camo Satin Boxing Shorts",
+          "description":"Crafted in 100% polyester satin these lightweight Adidas Camo Boxing Shorts have a large elasticated waistband along with a cord at the waist for a perfect fit allowing you to fight with confidence.",
+          "price":24.99,
+          "category":3,
+          "image":"adidas-camo-shorts.jpg"
+       }
+    },
+    {
+       "pk":21,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003230723",
+          "name":"Nike II Boxing Shorts",
+          "description":"Made from 100% polyester these Nike boxing shorts have extra room in the crotch area along with a 4 elastic waistband that is non slip and snug featuring the Nike swoosh. They have a stylish grey or white waistband. Train harder in real comfort in these stylish Nike free flowing competition boxing shorts.",
+          "price":39.99,
+          "category":3,
+          "image":"nike-boxing-shorts"
+       }
+    },
+    {
+       "pk":22,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003270936",
+          "name":"Classic Satin Boxing Shorts White",
+          "description":"These are the basic satin boxing shorts.",
+          "price":29.99,
+          "category":3,
+          "image":"classic-white-shorts.jpg"
+       }
+    },
+    {
+       "pk":23,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003360384",
+          "name":"Lonsdale Performance Boxing Ring Wear Shorts",
+          "description":"The Lonsdale Performance boxing shorts benefit from quick drying fabric which uses M Core technology for breathability allowing improved performance. To complete the look the Lonsdale Performance shorts are stylish with contrasting panels to both sides with the iconic Lonsdale logo to left thigh. They have a large elasticated waistband for added comfort which again features the Lonsdale logo.",
+          "price":9.99,
+          "category":3,
+          "image":"lonsdale-performance-shorts.jpg"
+       }
+    }
+ ]
