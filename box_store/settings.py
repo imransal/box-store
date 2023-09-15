@@ -63,7 +63,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'boutique_ado.urls'
+ROOT_URLCONF = 'box_store.urls'
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
@@ -114,7 +114,7 @@ ACCOUNT_USERNAME_MIN_LENGTH = 4
 LOGIN_URL = '/accounts/login/'
 LOGIN_REDIRECT_URL = '/'
 
-WSGI_APPLICATION = 'boutique_ado.wsgi.application'
+WSGI_APPLICATION = 'box_store.wsgi.application'
 
 
 # Database
@@ -192,7 +192,6 @@ if 'USE_AWS' in os.environ:
     # Override static and media URLs in production
     STATIC_URL = f'https://{AWS_S3_CUSTOM_DOMAIN}/{STATICFILES_LOCATION}/'
     MEDIA_URL = f'https://{AWS_S3_CUSTOM_DOMAIN}/{MEDIAFILES_LOCATION}/'
-    
 
 # Stripe
 FREE_DELIVERY_THRESHOLD = 50
@@ -201,4 +200,5 @@ STRIPE_CURRENCY = 'usd'
 STRIPE_PUBLIC_KEY = os.getenv('STRIPE_PUBLIC_KEY', '')
 STRIPE_SECRET_KEY = os.getenv('STRIPE_SECRET_KEY', '')
 STRIPE_WH_SECRET = os.getenv('STRIPE_WH_SECRET', '')
-DEFAULT_FROM_EMAIL = 'boutiqueado@example.com'
+DEFAULT_FROM_EMAIL = 'boxstore@example.com'
+ACCOUNT_EMAIL_VERIFICATION = 'none'
