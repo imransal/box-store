@@ -41,4 +41,4 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 
 ---
 
-Happy coding!
+Happy coding
