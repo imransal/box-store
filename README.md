@@ -52,15 +52,12 @@ The project planning is organized into five key phases:
 #### **Customer Stories**
 - As a customer, I seek the ability to browse all available products to make informed purchasing decisions.
 - As a customer, I desire the option to explore products in greater detail.
-- As a customer, I aim to access product reviews provided by other shoppers to evaluate the product's worth.
 - As a customer, I expect a confirmation message when adding a product to my shopping bag to prevent inadvertent duplication.
 - As a customer, I want to access my shopping bag to review its contents and make quantity adjustments as needed.
 
 #### **Customers (Registered) Stories**
 - As a registered user, I seek the capability to save my details for convenience, reducing the need for repeated data entry.
 - As a registered user, I wish to access my previous orders, including order details and order numbers, for reference.
-- As a registered user, I aim to contribute product reviews to assist other users in making informed decisions based on my experiences.
-- As a registered user, I want the ability to edit my reviews to correct errors or reflect changing opinions.
 - As a registered user, I desire the option to add products to my wishlist for future consideration.
 - As a registered user, I want the ability to remove products from my wishlist to maintain a curated list of desired items.
 
@@ -318,9 +315,8 @@ This well-structured e-commerce website will provide a seamless shopping experie
 - Only administrators can view the Edit and Delete buttons on the product details page.
 - Links within Product Management accurately redirect to the add product page.
 - The process of adding a product functions correctly, ensuring the product receives accurate information from the form and appears correctly within the database.
-- Editing a product works seamlessly, preserving product reviews after editing and accurately reflecting the updated details.
 - The Delete button effectively triggers a modal to confirm deletion.
-- Deleting a product correctly removes it from the database, along with any associated product reviews, ensuring complete deletion.
+- Deleting a product correctly removes it from the database.
 
 **Shopping Bag**
 - The shopping bag link in the navbar accurately displays the current session's bag value.
