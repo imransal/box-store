@@ -21,6 +21,7 @@ body {
 
 .logo-font {
     text-transform: uppercase;
+    color: #0062cc ;
 }
 
 .main-logo-link {
@@ -70,7 +71,7 @@ body {
 }
 
 .bg-black {
-    background: #000 !important;
+    background: #0062cc !important;
 }
 
 .overlay {
