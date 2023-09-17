@@ -167,6 +167,12 @@ This well-structured e-commerce website will provide a seamless shopping experie
 
 ---
 
+### Databse Schema
+
+![Database Schema](https://i.ibb.co/n763ZDy/database-schema.jpg)
+
+---
+
 ## **The Surface Plane**
 
 *Responsive Navigation Bar*
