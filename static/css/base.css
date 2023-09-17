@@ -174,13 +174,6 @@ input[name='q']::placeholder {
     overflow-y: auto;
 }
 
-.social-link {
-    color: white;
-}
-
-#social-link {
-    color: white;
-}
 
 /* -------------------------------- Media Queries */
 
