@@ -24,7 +24,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = os.environ.get('SECRET_KEY', ' ')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['box-store-90aa6734c1b0.herokuapp.com', 'localhost', 'https://8000-imransal-boxstore-sl9dxr1y0u0.ws-eu104.gitpod.io/', '*']
 
