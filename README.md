@@ -476,7 +476,7 @@ Use the following commands to commit your work,
 2. In the *Clone >> HTTPS* section, copy the clone URL for the repository
 3. In your local IDE open Git Bash
 4. Change the current working directory to the location where you want the cloned directory to be made
-5. Type `git clone`, and then paste the URL you copied in Step 2 - ``git clone https://github.com/Harry-Leepz/Nourish-and-Lift.git``
+5. Type `git clone`, and then paste the URL you copied in Step 2 - ``git clone https://github.com/imransal/box-store.git``
 6. Set the following values in a `env.py` file.
 ```
 import os
@@ -635,7 +635,7 @@ pip3 freeze > requirements.txt
 - A significant portion of the code is derived from the Code Institute's Boutique Ado Project.
 - [Code Institute](https://codeinstitute.net/)
     - Boutique Ado served as a tutorial project at Code Institute, providing students with an introduction to Django, AWS S3, Stripe, and Heroku Postgres.
-    - The foundational functionality of Nourish and Lift is directly borrowed from the Boutique Ado project.
+    - The foundational functionality of Box Store is directly borrowed from the Boutique Ado project.
 
 **Bootstrap**
 - The project extensively utilized the Bootstrap Library, specifically version 4.6.
