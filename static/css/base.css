@@ -1,7 +1,3 @@
-#box-store-logo {
-    background: url('/media/box-store-logo.png') no-repeat center center fixed;
-}
-
 html {
     height: 100%;
 }
@@ -25,7 +21,6 @@ body {
 
 .logo-font {
     text-transform: uppercase;
-    color: #0062cc ;
 }
 
 .main-logo-link {
@@ -33,13 +28,13 @@ body {
 }
 
 .shop-now-button {
-    background: #0062cc;
+    background: black;
     color: white;
     min-width: 260px;
 }
 
 .btn-black {
-    background: #0062cc;
+    background: black;
     color: white;
 }
 
@@ -67,7 +62,7 @@ body {
 }
 
 .text-black {
-    color: #0062cc !important;
+    color: #000 !important;
 }
 
 .border-black {
@@ -75,7 +70,7 @@ body {
 }
 
 .bg-black {
-    background: #0062cc !important;
+    background: #000 !important;
 }
 
 .overlay {
