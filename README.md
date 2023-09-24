@@ -363,6 +363,62 @@ During the development phase, testing primarily focused on Google Chrome. In the
 - Opera
 - Microsoft Edge
 
+**Accessibility Assessment With Lighthouse**
+
+***Overview***
+
+This project focuses on evaluating the accessibility and performance of a web application using Google Developer Tools Lighthouse. The goal was to ensure that our web application meets high standards in terms of accessibility for both mobile and desktop users. The Lighthouse audits were conducted, and the following scores were obtained:
+
+***Mobile Scores***
+
+Performance: 87
+Accessibility: 87
+Best Practices: 100
+SEO: 73
+
+![Mobile Lighthouse Score](https://i.ibb.co/RBC3Rn1/Box-Store-Lighthouse-Mobile.jpg)
+
+***Desktop Scores***
+
+Performance: 97
+Accessibility: 81
+Best Practices: 100
+SEO: 89
+
+![Desktop Lighthouse Score](https://i.ibb.co/3vhtyBt/Box-Store-Lighthouse-Desktop.jpg)
+
+***Key Findings***
+
+***Mobile:***
+
+Performance (87): The mobile performance score indicates that our web application is optimized and loads reasonably fast on mobile devices.
+
+Accessibility (87): The accessibility score shows that our web application is largely accessible on mobile devices, but there is room for improvement.
+
+Best Practices (100): We have adhered to best practices in web development for mobile devices, achieving a perfect score.
+
+SEO (73): The SEO score suggests that there is room for optimization to improve search engine rankings on mobile devices.
+
+***Desktop:***
+
+Performance (97): The desktop performance score indicates that our web application performs exceptionally well on desktop devices.
+
+Accessibility (81): While the accessibility score for desktop is good, some improvements can be made to enhance the user experience for individuals with disabilities.
+
+Best Practices (100): Our web application complies with best practices for desktop devices, achieving a perfect score.
+
+SEO (89): The SEO score suggests that our web application is well-optimized for search engines on desktop devices, but there is still potential for improvement.
+
+***Action Items***
+
+Based on these Lighthouse audit results, we will focus on the following action items:
+
+Mobile Accessibility: Address accessibility issues identified in the mobile audit to ensure an inclusive user experience for all mobile users.
+
+Mobile SEO Optimization: Optimize the mobile version of our web application to improve its search engine rankings.
+
+Desktop Accessibility: Enhance the accessibility features of the desktop version to further improve the user experience for individuals with disabilities.
+
 ---
 
 ## **Customer Stories**
