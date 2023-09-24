@@ -380,7 +380,7 @@ SEO: 73
 
 ***Desktop Scores***
 
-Performance: 97
+Performance: 98
 Accessibility: 81
 Best Practices: 100
 SEO: 89
