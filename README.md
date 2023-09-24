@@ -365,11 +365,11 @@ During the development phase, testing primarily focused on Google Chrome. In the
 
 **Accessibility Assessment With Lighthouse**
 
-***Overview***
+**Overview**
 
 This project focuses on evaluating the accessibility and performance of a web application using Google Developer Tools Lighthouse. The goal was to ensure that our web application meets high standards in terms of accessibility for both mobile and desktop users. The Lighthouse audits were conducted, and the following scores were obtained:
 
-***Mobile Scores***
+**Mobile Scores**
 
 Performance: 87
 Accessibility: 87
@@ -378,7 +378,7 @@ SEO: 73
 
 ![Mobile Lighthouse Score](https://i.ibb.co/RBC3Rn1/Box-Store-Lighthouse-Mobile.jpg)
 
-***Desktop Scores***
+**Desktop Scores**
 
 Performance: 98
 Accessibility: 81
@@ -387,7 +387,7 @@ SEO: 89
 
 ![Desktop Lighthouse Score](https://i.ibb.co/3vhtyBt/Box-Store-Lighthouse-Desktop.jpg)
 
-***Key Findings***
+**Key Findings**
 
 ***Mobile:***
 
